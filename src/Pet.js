@@ -9,4 +9,3 @@ export const Pet = ({ name, animal, breed }) => {
     </div>
   );
 };
-//
